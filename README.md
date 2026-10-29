@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard exploring the Amazon Prime Video catalogue.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Key questions
 - How big is the catalogue, and how much of it is movies vs TV shows?
