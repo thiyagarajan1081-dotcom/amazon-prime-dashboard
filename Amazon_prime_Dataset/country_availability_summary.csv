@@ -1,0 +1,134 @@
+country_code,country_name,Movie,TV Show,total_titles
+US,United States,786,287,1073
+CA,Canada,420,194,614
+GB,United Kingdom,412,153,565
+GG,Guernsey,375,148,523
+AU,Australia,340,143,483
+BZ,Belize,318,102,420
+GH,Ghana,313,97,410
+UG,Uganda,313,96,409
+NG,Nigeria,312,97,409
+KE,Kenya,311,97,408
+MW,Malawi,309,96,405
+CM,Cameroon,304,97,401
+BS,Bahamas,277,99,376
+ZA,South Africa,268,105,373
+JM,Jamaica,275,97,372
+BB,Barbados,276,96,372
+TT,Trinidad and Tobago,274,96,370
+AG,Antigua and Barbuda,274,96,370
+GY,Guyana,270,93,363
+NZ,New Zealand,225,122,347
+IE,Ireland,219,109,328
+BM,Bermuda,181,91,272
+GI,Gibraltar,187,82,269
+LC,Saint Lucia,180,88,268
+TC,Turks and Caicos Islands,175,86,261
+FJ,Fiji,168,82,250
+PG,Papua New Guinea,164,83,247
+NI,Nicaragua,163,83,246
+AR,Argentina,162,83,245
+BO,"Bolivia, Plurinational State of",159,85,244
+PE,Peru,162,81,243
+CL,Chile,162,81,243
+GT,Guatemala,159,83,242
+UY,Uruguay,159,83,242
+PA,Panama,159,83,242
+PY,Paraguay,159,83,242
+VE,"Venezuela, Bolivarian Republic of",159,82,241
+EC,Ecuador,159,82,241
+HN,Honduras,159,82,241
+CR,Costa Rica,159,82,241
+CO,Colombia,159,82,241
+SV,El Salvador,155,84,239
+DO,Dominican Republic,157,81,238
+MX,Mexico,149,81,230
+CU,Cuba,132,96,228
+AO,Angola,132,93,225
+BR,Brazil,138,80,218
+IS,Iceland,140,74,214
+PF,French Polynesia,134,74,208
+GF,French Guiana,132,75,207
+SN,Senegal,121,76,197
+JP,Japan,113,84,197
+ML,Mali,121,74,195
+NE,Niger,120,74,194
+FR,France,122,71,193
+BF,Burkina Faso,120,73,193
+CD,"Congo, The Democratic Republic of the",120,73,193
+MG,Madagascar,119,73,192
+CI,Côte d'Ivoire,117,74,191
+PH,Philippines,111,77,188
+SC,Seychelles,114,72,186
+MZ,Mozambique,105,75,180
+IN,India,105,74,179
+GQ,Equatorial Guinea,107,71,178
+CV,Cabo Verde,104,72,176
+DE,Germany,102,72,174
+AT,Austria,102,67,169
+ZM,Zambia,95,73,168
+ES,Spain,97,71,168
+TZ,"Tanzania, United Republic of",95,72,167
+ZW,Zimbabwe,95,72,167
+TD,Chad,95,72,167
+CH,Switzerland,98,68,166
+IT,Italy,96,69,165
+TN,Tunisia,83,73,156
+SG,Singapore,84,72,156
+DZ,Algeria,83,73,156
+MA,Morocco,83,73,156
+IQ,Iraq,83,72,155
+JO,Jordan,83,72,155
+BH,Bahrain,83,72,155
+OM,Oman,83,72,155
+QA,Qatar,83,72,155
+PS,"Palestine, State of",83,72,155
+YE,Yemen,83,72,155
+LB,Lebanon,83,72,155
+MY,Malaysia,83,72,155
+PK,Pakistan,82,73,155
+KW,Kuwait,83,72,155
+TH,Thailand,83,71,154
+TW,"Taiwan, Province of China",82,72,154
+LY,Libya,82,72,154
+HK,Hong Kong,82,72,154
+IL,Israel,82,72,154
+KR,"Korea, Republic of",82,72,154
+SA,Saudi Arabia,82,71,153
+AZ,Azerbaijan,83,70,153
+LU,Luxembourg,89,63,152
+EG,Egypt,82,70,152
+AE,United Arab Emirates,82,70,152
+ID,Indonesia,82,70,152
+BE,Belgium,87,64,151
+SM,San Marino,83,65,148
+VA,Holy See (Vatican City State),84,63,147
+SE,Sweden,78,67,145
+DK,Denmark,74,67,141
+NO,Norway,72,66,138
+FI,Finland,73,65,138
+MC,Monaco,52,63,115
+LI,Liechtenstein,45,68,113
+NL,Netherlands,48,63,111
+AD,Andorra,32,64,96
+PT,Portugal,22,61,83
+MD,"Moldova, Republic of",21,61,82
+AL,Albania,20,61,81
+PL,Poland,27,54,81
+BA,Bosnia and Herzegovina,17,61,78
+RS,Serbia,17,61,78
+CY,Cyprus,13,64,77
+MK,North Macedonia,14,61,75
+RO,Romania,14,57,71
+MT,Malta,11,60,71
+HR,Croatia,12,58,70
+BG,Bulgaria,10,60,70
+LT,Lithuania,11,59,70
+LV,Latvia,11,59,70
+SI,Slovenia,11,59,70
+TR,Türkiye,14,56,70
+HU,Hungary,13,56,69
+EE,Estonia,11,58,69
+SK,Slovakia,11,57,68
+GR,Greece,12,54,66
+CZ,Czechia,12,54,66
