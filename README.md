@@ -102,8 +102,8 @@ From the run used for this dashboard (a sample of 3,000 titles):
 - **Title-search matches (620) are less reliable** than IMDb ID matches, because a similar title may have been matched by mistake.
 - **TMDB reports current availability.** Titles that have since left Prime appear as "no Prime listing".
 - **IMDb ratings exist only for matched titles.** `IMDb Coverage %` shows how many titles have one.
-- **Director, cast and country have missing values in the source data.** `production_country     93.0
-tmdb_id                81.6
+- **Director, cast and country have missing values in the source data.** |`production_country `  ` 93.0`|
+- tmdb_id                81.6
 seasons                80.8
 availability_status    69.0
 match_method           69.0
