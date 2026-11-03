@@ -128,7 +128,7 @@ genre                   0.0`
 | File | Description |
 |---|---|
 | `Amazon_Prime_Dashboard.pbix` | The Power BI dashboard (opens in Power BI Desktop) |
-| `[notebook file name].ipynb` | Colab notebook that builds the data |
+| `Data_collection.ipynb` | Colab notebook that builds the data |
 | `Amazon_prime_Dataset` | The exported CSV tables |
 | `Dashboard.pdf` | Static PDF export of the dashboard |
 | `Dashboard.png` | Screenshot used in this README |
